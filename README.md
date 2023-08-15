@@ -1,2 +1,2 @@
 # Meu-Julius-Web
-Site em react para controle financeiro
+Site em react para sistema de gastos pessoais.
